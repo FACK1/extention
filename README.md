@@ -9,22 +9,20 @@ More information that shows other scores, and has a link to the website (ideally
 # How to run extention localy :
    1- Go to  chrome://extensions  .
    
-   2- Turn on developer mode as you see in the image . 
+   2- Turn on developer mode as you see in the right of the image . 
    
-   3- Click on load unpacked to upload extension file in this git hub file .
+   3- Click on load unpacked to upload extension folder - the folder that has the code.
    
    ![11](https://user-images.githubusercontent.com/35188117/56283075-60587f80-6119-11e9-87bc-70680fd5f0fc.png)
     
-   4- You well see the chrome extension with your extension list like this image .
+   4- You will see the chrome extension with your extension list like this image .
    
    ![112](https://user-images.githubusercontent.com/35188117/56283221-c1805300-6119-11e9-9357-b1b2cf4e8d98.png)
     
-   5- Our extension here name is ethicalCompass .
+   5- Our extension called ethicalCompass .
    
-   6- You can change the extension icon and details like name and description .
-   
-   7- Our code miss the check boxes right now - is it ok if we keep it broad/non customization for now.
-    
+   6- Open the Asois website and the extension will run automatically
+  
 
 # Team Member
 - [Sama Amro](https://github.com/Samaamro20)
